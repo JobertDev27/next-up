@@ -13,6 +13,7 @@ A ticket based queue system that allows students and parents to:
 Less hassle, no cutting in lines and allow student to move around while waiting for documents.
 
 ## Demo
+https://github.com/user-attachments/assets/8b7ac37c-4508-412c-bdae-86dfe58eda1a
 
 ## Tech Stack
 - Native: React Native (Expo)
